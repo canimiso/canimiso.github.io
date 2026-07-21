@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Profile image](/assets/img/profile_canimiso_480anime.gif)
+<img src="/assets/img/profile_canimiso_480anime.gif" width="240" height="240">
 canimiso
