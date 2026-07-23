@@ -6,8 +6,7 @@ order: 4
 
 ### name: canimiso (canibrain)
 
-![Static Badge](https://img.shields.io/badge/cani-miso-orange)  
-![Static Badge](https://img.shields.io/badge/language-Japanese-red)
+![Static Badge](https://img.shields.io/badge/cani-miso-orange)
 
 ゲーム好きの文系だけどtech系が気になる系男子。Debian/FreeBSDの入ったMini-ITX/玄箱HGで自宅サーバー経験あり。
 
