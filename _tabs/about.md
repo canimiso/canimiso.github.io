@@ -18,5 +18,9 @@ order: 4
 
 #### || SNS Link
 
+- [https://bsky.app/profile/canimiso.bsky.social](https://bsky.app/profile/canimiso.bsky.social)
+- [https://note.com/canibrain](https://note.com/canibrain)
+- [https://www.reddit.com/user/canimiso/](https://www.reddit.com/user/canimiso/)
 - [https://qiita.com/canimiso](https://qiita.com/canimiso)
 - [https://zenn.dev/canimiso](https://zenn.dev/canimiso)
+- [https://b.hatena.ne.jp/canimiso/](https://b.hatena.ne.jp/canimiso/)
