@@ -3,6 +3,42 @@
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
+Chirpy Jekyllテーマを使ったブログをすぐに作成できる、最小構成のテンプレートです。
+必要なファイルはあらかじめ設定済みなので、数分でブログを立ち上げられます。
+
+## このStarterが存在する理由
+
+ChirpyをRubyGems.org経由でインストールした場合、Jekyllが読み込めるテーマファイルは _data、_layouts、_includes、_sass、assets、_config.yml の一部と、Gemに含まれる限られた設定項目だけです。
+そのため、Chirpyが本来提供している「すぐに使える完成された環境（out-of-the-box experience）」をそのまま利用することはできません。
+
+Chirpyのすべての機能を利用するには、以下のファイルやディレクトリがJekyllサイト内に存在している必要があります。
+
+```shell
+.
+├── _config.yml
+├── _plugins
+├── _tabs
+└── index.html
+```
+
+このStarterには、最新版のChirpyリリースに含まれる必要なファイル一式と、継続的デプロイ（CD: Continuous Deployment）のワークフローがあらかじめ組み込まれています。
+そのため、環境構築に時間をかけることなく、すぐに記事を書き始めることができます。
+
+## 使い方
+
+Chirpyテーマのドキュメントをご覧ください。
+
+## コントリビューション（改善への協力）
+
+このリポジトリは、Chirpyテーマ本体の新しいリリースに合わせて自動的に更新されます。
+問題を見つけた場合や改善に協力したい場合は、このStarterリポジトリではなく、Chirpyテーマ本体のリポジトリへフィードバックをお願いします。
+
+## ライセンス
+
+このソフトウェアは MITライセンス のもとで公開されています。
+
+----------
+
 A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
 
 ## Why This Starter Exists
