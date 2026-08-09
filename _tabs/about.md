@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### name: canimiso (canibrain/蟹脳)
+## name: canimiso (canibrain/蟹脳)
 
 ゲーム好きの文系だけど**tech系が気になる系男子**。Debian/FreeBSDの入ったMini-ITX/玄箱HGで自宅サーバー経験あり。
 
